@@ -1,12 +1,12 @@
-# Postman_HW_2
+# Postman_HW_1
 
 ## :small_blue_diamond:HW during Vadim Ksendzov course:small_blue_diamond:
 
 Создать запросы в Postman.
-
-Protocol: http
-IP: 162.55.220.72
-Port: 5005
+<br>
+<br>Protocol: http
+<br>IP: 162.55.220.72
+<br>Port: 5005
 
 1. 
 - Method: GET
