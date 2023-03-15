@@ -12,8 +12,8 @@
 - Method: GET
 - EndPoint: /get_method
 - Request url params: 
-    name: str
-    age: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
 ```
 http://162.55.220.72:5005/get_method?name=Olga&age=60
 ```
@@ -21,9 +21,9 @@ http://162.55.220.72:5005/get_method?name=Olga&age=60
 - Method: POST
 - EndPoint: /user_info_3
 - Request form-data: 
-    name: str
-    age: int
-    salary: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;salary: int
 ```
 http://162.55.220.72:5005/user_info_3
 
@@ -37,9 +37,9 @@ salary: 60000
 - Method: GET
 - EndPoint: /object_info_1
 - Request url params: 
-    name: str
-    age: int
-    weight: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;weight: int
 ```
 http://162.55.220.72:5005/object_info_1?name=Olga&age=60&weight=70
 ```
@@ -48,9 +48,9 @@ http://162.55.220.72:5005/object_info_1?name=Olga&age=60&weight=70
 - Method: GET
 - EndPoint: /object_info_2
 - Request url params: 
-    name: str
-    age: int
-    salary: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;salary: int
 ```
 http://162.55.220.72:5005/object_info_2?name=Olga&age=60&salary=60000
 ```
@@ -59,9 +59,9 @@ http://162.55.220.72:5005/object_info_2?name=Olga&age=60&salary=60000
 - Method: GET
 - EndPoint: /object_info_3
 - Request url params: 
-    name: str
-    age: int
-    salary: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;salary: int
 ```
 http://162.55.220.72:5005/object_info_3?name=Olga&age=60&salary=70000
 ```
@@ -70,9 +70,9 @@ http://162.55.220.72:5005/object_info_3?name=Olga&age=60&salary=70000
 - Method: GET
 - EndPoint: /object_info_4
 - Request url params: 
-    name: str
-    age: int
-    salary: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;salary: int
 ```
 http://162.55.220.72:5005/object_info_4?name=Peter&age=34&salary=67000
 ```
@@ -81,9 +81,9 @@ http://162.55.220.72:5005/object_info_4?name=Peter&age=34&salary=67000
 - Method: POST
 - EndPoint: /user_info_2
 - Request form data: 
-    name: str
-    age: int
-    salary: int
+  <br>&nbsp;&nbsp;name: str
+  <br>&nbsp;&nbsp;age: int
+  <br>&nbsp;&nbsp;salary: int
 ```
 http://162.55.220.72:5005/user_info_2
 
